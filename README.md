@@ -1,6 +1,7 @@
 # Lab 4 - Encapsulation
 
 Name: Jonathan Lagura
+
 Section: Section 2E
 
 ## Console Output
